@@ -22,12 +22,6 @@ Or install individual skills:
 /plugin install cezar-r/hyperliquid-skills@hl-spot-markets
 ```
 
-Or via npx:
-
-```bash
-npx skills add cezar-r/hyperliquid-skills
-```
-
 ## Available Skills
 
 | Skill | Description |
