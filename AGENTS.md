@@ -8,7 +8,6 @@ This file provides guidance to AI coding agents (Claude Code, Cursor, Copilot, e
 hyperliquid-skills/
 ├── AGENTS.md                    # This file
 ├── README.md                    # User-facing documentation
-├── LICENSE                      # MIT License
 └── skills/
     └── {skill-name}/
         └── SKILL.md             # Skill definition (required)

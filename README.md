@@ -98,7 +98,3 @@ Guide for spot market handling:
 - Balance matching with baseTokenIndex
 - Candle subscriptions with @index format
 - Common mistakes to avoid
-
-## License
-
-MIT
